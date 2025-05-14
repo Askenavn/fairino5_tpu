@@ -1,0 +1,16 @@
+controller_list:
+  - name: fake_arm_controller
+    type: $(arg fake_execution_type)
+    joints:
+      - j1
+      - j2
+      - j3
+      - j4
+      - j5
+      - j6
+  - name: fake_hand_controller
+    type: $(arg fake_execution_type)
+    joints:
+      - gripper_finger_joint_l
+      - gripper_finger_joint_r
+

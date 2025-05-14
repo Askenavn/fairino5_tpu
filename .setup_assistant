@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: frcobot_description
+    relative_path: urdf/fr5_gazebo.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/fr5v6.srdf
+  CONFIG:
+    author_name: nikita
+    author_email: askenavn@gmail.com
+    generated_timestamp: 1746978937
