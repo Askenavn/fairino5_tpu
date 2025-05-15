@@ -16,8 +16,8 @@
 5. Участник не допустил незначительных ошибок, которые не сильно сказываются на работе программы.
  *- значения могут быть изменены организаторами перед началом проведения испытания
 #### Ссылки:
-Интерфейс по взаимодействую со сценой (потребуется для привязки и отвязки объектов во время манипулирования объектами): https://docs.ros.org/en/noetic/api/moveit_commander/html/classmoveit__commander_1_1planning__scene__interface_1_1PlanningSceneInterface.html
-Документация по пакету MoveIt: https://moveit.github.io/moveit_tutorials/doc/getting_started/getting_started.html
-Документация ROS1: https://wiki.ros.org/
+- Интерфейс по взаимодействую со сценой (потребуется для привязки и отвязки объектов во время манипулирования объектами): https://docs.ros.org/en/noetic/api/moveit_commander/html/classmoveit__commander_1_1planning__scene__interface_1_1PlanningSceneInterface.html
+- Документация по пакету MoveIt: https://moveit.github.io/moveit_tutorials/doc/getting_started/getting_started.html
+- Документация ROS1: https://wiki.ros.org/
 
 ![Fairino5](./FR5%20Ontology%20Drawing.jpg)
